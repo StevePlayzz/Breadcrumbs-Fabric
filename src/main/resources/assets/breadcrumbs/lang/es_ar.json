@@ -3,16 +3,19 @@
   "block.breadcrumbs.bread_slab": "Baldosa de pan",
   "block.breadcrumbs.bread_stairs": "Escaleras de pan",
   "block.breadcrumbs.bread_wall": "Pared de pan",
+  "block.breadcrumbs.bread_column": "Pilar de pan",
 
   "block.breadcrumbs.polished_bread_block": "Bloque de pan pulido",
   "block.breadcrumbs.polished_bread_slab": "Baldosa de pan pulido",
   "block.breadcrumbs.polished_bread_stairs": "Escaleras de pan pulido",
   "block.breadcrumbs.polished_bread_wall": "Pared de pan pulido",
+  "block.breadcrumbs.polished_bread_column": "Pilar de pan pulido",
 
   "block.breadcrumbs.bread_bricks": "Ladrillos de pan",
   "block.breadcrumbs.bread_brick_slab": "Baldosa de ladrillos de pan",
   "block.breadcrumbs.bread_brick_stairs": "Escaleras de ladrillos de pan",
   "block.breadcrumbs.bread_brick_wall": "Pared de ladrillos de pan",
+  "block.breadcrumbs.bread_brick_column": "Pilar de ladrillos de pan",
 
   "block.breadcrumbs.bread_pavement": "Pavimento de pan",
   "block.breadcrumbs.bread_pillar": "Columna de pan",
@@ -22,16 +25,19 @@
   "block.breadcrumbs.honey_bread_slab": "Baldosa de pan de miel",
   "block.breadcrumbs.honey_bread_stairs": "Escaleras de pan de miel",
   "block.breadcrumbs.honey_bread_wall": "Pared de pan de miel",
+  "block.breadcrumbs.honey_bread_column": "Pilar de pan de miel",
 
   "block.breadcrumbs.polished_honey_bread_block": "Bloque de pan de miel pulido",
   "block.breadcrumbs.polished_honey_bread_slab": "Baldosa de pan de miel pulido",
   "block.breadcrumbs.polished_honey_bread_stairs": "Escaleras de pan de miel pulido",
   "block.breadcrumbs.polished_honey_bread_wall": "Pared de pan de miel pulido",
+  "block.breadcrumbs.polished_honey_bread_column": "Pilar de pan de miel pulido",
 
   "block.breadcrumbs.honey_bread_bricks": "Ladrillos de pan de miel",
   "block.breadcrumbs.honey_bread_brick_slab": "Baldosa de ladrillos de pan de miel",
   "block.breadcrumbs.honey_bread_brick_stairs": "Escaleras de ladrillos de pan de miel",
   "block.breadcrumbs.honey_bread_brick_wall": "Pared de ladrillos de pan de miel",
+  "block.breadcrumbs.honey_bread_brick_column": "Pilar de ladrillos de pan de miel",
 
   "block.breadcrumbs.honey_bread_pavement": "Pavimento de pan de miel",
   "block.breadcrumbs.honey_bread_pillar": "Columna de pan de miel",
@@ -41,16 +47,19 @@
   "block.breadcrumbs.pumpkin_bread_slab": "Baldosa de pan de zapallo",
   "block.breadcrumbs.pumpkin_bread_stairs": "Escaleras de pan de zapallo",
   "block.breadcrumbs.pumpkin_bread_wall": "Pared de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_column": "Pilar de pan de zapallo
 
   "block.breadcrumbs.polished_pumpkin_bread_block": "Bloque de pan de zapallo pulido",
   "block.breadcrumbs.polished_pumpkin_bread_slab": "Baldosa de pan de zapallo pulido",
   "block.breadcrumbs.polished_pumpkin_bread_stairs": "Escaleras de pan de zapallo pulido",
   "block.breadcrumbs.polished_pumpkin_bread_wall": "Pared de pan de zapallo pulido",
+  "block.breadcrumbs.polished_pumpkin_bread_column": "Pilar de pan de zapallo pulido",
 
   "block.breadcrumbs.pumpkin_bread_bricks": "Ladrillos de pan de zapallo",
   "block.breadcrumbs.pumpkin_bread_brick_slab": "Baldosa de ladrillos de pan de zapallo",
   "block.breadcrumbs.pumpkin_bread_brick_stairs": "Escaleras de ladrillos de pan de zapallo",
   "block.breadcrumbs.pumpkin_bread_brick_wall": "Pared de ladrillos de pan de zapallo",
+  "block.breadcrumbs.pumpkin_bread_brick_column": "Pilar de ladrillos de pan de zapallo",
 
   "block.breadcrumbs.pumpkin_bread_pavement": "Pavimento de pan de zapallo",
   "block.breadcrumbs.pumpkin_bread_pillar": "Columna de pan de zapallo",
